@@ -1,3 +1,5 @@
 main
-one edit
+function mult 
+fumction div
+
 
