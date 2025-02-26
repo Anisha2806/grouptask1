@@ -1,5 +1,7 @@
 main
-function mult 
-fumction div
+function add
+function sub
+
+
 
 
